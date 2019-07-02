@@ -1,4 +1,4 @@
-#Active Record Intro:  Inserting Records
+# Active Record Intro:  Inserting Records
 
 ## Summary
 In this exercise, we'll be working with Active Record models in the Rake console.  Our focus will be on inserting new records into the database using the methods provided by Active Record.
